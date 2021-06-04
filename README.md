@@ -4,8 +4,8 @@
 
 ---
 
-## `Tone & Sub Controls`
-* Filter Low-Pass
+## `Tone Controls`
+* Sub Cutoff
 * EQ Lo
 * EQ Mid
 * EQ Hi
