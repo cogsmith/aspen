@@ -13,7 +13,7 @@
 * Line Out
 * Subwoofer
 
-## I`nput Sources`
+## `Input Sources`
 * USB / SD / SSD
 * Bluetooth
 * FM
