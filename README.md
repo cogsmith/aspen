@@ -25,7 +25,6 @@
 * Aux: 1-3
 
 ## `Digi Pots`
-
     LINE
     SUB
     OUT
@@ -33,5 +32,15 @@
     LO
     MID
     HI
+
+## `Ports`
+    POWER
+    OUT
+    SUB
+    AUX
+    -    
+    USB
+    ETH
+
 
 ---
