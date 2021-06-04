@@ -1,6 +1,6 @@
 # 🔊 ASPEN: Analog Source Preamp Enhancer 🔊
 ## Digitally Controlled Analog Signal Processor & Inpur Switcher
-### Control preamp source EQ, volume, and subwoofer cutoff over WIFI & REST
+### Control preamp source EQ, volume, and subwoofer cutoff over WIFI using REST
 
 ---
 
