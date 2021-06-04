@@ -20,6 +20,7 @@
 * FM
 * NetRadio
 * ESP32
+* YouTube
 * Kodi
 * Raspberry Pi
 * Aux: 1-3
@@ -41,6 +42,5 @@
     -    
     USB
     ETH
-
 
 ---
