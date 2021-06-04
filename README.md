@@ -13,6 +13,7 @@
 ## `Volume Controls`
 * Line Out
 * Subwoofer
+* Mute
 
 ## `Input Sources`
 * USB / SD / SSD
