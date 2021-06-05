@@ -21,9 +21,9 @@
 * FM
 * NetRadio
 * ESP32
+* Raspberry Pi
 * YouTube
 * Kodi
-* Raspberry Pi
 * Aux: 1-3
 
 ## `Digi Pots`
